@@ -30,7 +30,7 @@ A Minimalist Text Adventure Game
 
 	- (Done) Refugee Camp: gives 'immune' perk; no more sickness or plague.
 
-	- (Done) Technology Center: Allows for creation of 'Adrenaline Shot' which revives player upon death and grants invulnerability for 10 steps.
+	- (Done) Technology Center: Allows for creation of 'Adrenaline Shot' which revives player upon death and grants 10 steps worth of whatever resource ran out.
 
 	- (Not included in final draft) Final City: N/A (Another alien wanderer may live here? May be your brother)
 
@@ -48,7 +48,7 @@ A Minimalist Text Adventure Game
 
 * (Done) Add an end-game score display for players to save and compare scores.
 
-* (Done) Add new 'civilizations:' column to room display for creating packs
+* (Done) Add new 'challenges:' column to room display for civilization challenges
 
 * (Done) Lights off upon page load instead of on
 
@@ -56,7 +56,10 @@ I will be adding more once I complete this list...
 
 ### Install Document
 
-To be written...
+1. Fork the repo.
+2. Clone it locally, either through the Github app or command line.
+3. Knock yourself out!
+	* Type './index.html' in your shell to run the game locally.
 
 ### Contributors
 
